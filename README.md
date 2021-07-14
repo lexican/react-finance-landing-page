@@ -1,4 +1,4 @@
-##Finance M4 Landing Page
+##Financial Accounting Landing Page
 
 Finance M4 is a landing page build with React Js. This project is purposely built to showcase my skills and talent as a frontend developer.
 
